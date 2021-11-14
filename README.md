@@ -7,7 +7,8 @@ products. Central Times uses S2B on its staging environment for app development.
 # Scope
 
 `wp_s2b` will implement all internal APIs necesary for the continued operation and development of the
-[Central Times Wordpress Plugin](https://github.com/CentralTimes/wp_centraltimes).
+[Central Times Wordpress Plugin](https://github.com/CentralTimes/wp_centraltimes) on
+the [Staging Times](https://staging.centraltimes.org/) staging website.
 
 `wp_s2b` **DOES NOT** intend to be a replacement for SNO's products, and instead acts as a minimal placeholder for the
 APIs that SNO's products provide.

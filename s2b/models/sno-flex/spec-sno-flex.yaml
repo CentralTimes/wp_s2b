@@ -1,0 +1,22 @@
+name: SNO FLEX
+class: class-sno-flex.php
+customPostTypes:
+  - name: staff_profile
+taxonomies:
+  - name: staff_name
+    postTypes:
+      - post
+      - staff_profile
+  - name: staff_year
+    postTypes: [ staff_profile ]
+postMetas:
+  - name: writer
+    postTypes: [ post ]
+  - name: sno_deck
+    postTypes: [ post ]
+  - name: jobtitle
+    postTypes: [ post ]
+  - name: video
+    postTypes: [ post ]
+  - name: videographer
+    postTypes: [ post ]
